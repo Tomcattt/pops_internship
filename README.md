@@ -1,4 +1,4 @@
-# Pops Internship - Data Analyst Intern & Data Consulting
+# POPS Internship - Data Analyst & Data Consulting
 
 ## Tools used and mastered
 
