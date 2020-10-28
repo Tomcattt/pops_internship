@@ -18,4 +18,4 @@ Following these analyses, I was therefore able to determine the best performing 
 
 This task was one of the most formative during my internship. I performed a very interesting and complete Data Science task, both in terms of reflection and implementation in an efficient and effective Python code. Thanks to this task I developed new skills in Data Science and in code with Python, I even had the opportunity to create a complete dashboard in the Dash language (python extension), here is the a screenshot of this interactive dashboard :
 
-![alt text](https://github.com/Tomcattt/pops_internship/blob/master/Screenshot%202020-10-28%20at%2014.34.08.png)
+[<img src="https://github.com/Tomcattt/pops_internship/blob/master/Screenshot%202020-10-28%20at%2014.34.08.png">](https://dash-gallery.plotly.host/dash-oil-and-gas/)
