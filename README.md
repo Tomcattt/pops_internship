@@ -1,4 +1,4 @@
-# Pops Internship - Data Analyst Intern & Data Consul1ng
+# Pops Internship - Data Analyst Intern & Data Consulting
 
 POPS is a start-up in the field of photography. It is an online photo printing service. The added value of POPS is to be able to print photos in a quite innovative lenticular format, with a 3D effect.
 
@@ -8,6 +8,6 @@ I had the opportunity to advise the front-design and artistic department to give
 
 Following these analyses, I was therefore able to determine the best performing products according to this indicator (with the highest repeat rate) and the least performing ones according to time. One of the subtleties of the analysis was the possibility of varying the time scale. One of the classic analysis set up with the repeat rate is this indicator: it is possible to know the % of buyers among those who bought in a given month, having bought less than 30 days later.
 
-This task was one of the most formative during my internship. I performed a very interesting and complete Data Science task, both in terms of reflection and implementation in an efficient and effective Python code. Thanks to this task I developed new skills in Data Science and in code with Python, I even had the opportunity to create a complete dashboard in the Dash language (python extension), here is the result:
+This task was one of the most formative during my internship. I performed a very interesting and complete Data Science task, both in terms of reflection and implementation in an efficient and effective Python code. Thanks to this task I developed new skills in Data Science and in code with Python, I even had the opportunity to create a complete dashboard in the Dash language (python extension), here is the a screenshot of this interactive dashboard :
 
 ![alt text](https://github.com/Tomcattt/pops_internship/blob/master/Screenshot%202020-10-28%20at%2014.34.08.png)
