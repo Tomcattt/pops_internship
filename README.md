@@ -1,8 +1,14 @@
 # Pops Internship - Data Analyst Intern & Data Consulting
 
+- Python (pandas, numpy, scikit-learn, jupyter-notebook)
+
+- Dash Plotly - dasboard python extension
+
+- AWS Api
+
 POPS is a start-up in the field of photography. It is an online photo printing service. The added value of POPS is to be able to print photos in a quite innovative lenticular format, with a 3D effect.
 
-As Data Analyst Intern, I analysed customer data from gross sales data. I worked with all teams, as all the data I processed was relevant to all teams. I retrieved precise data by working with the Back department, I analysed this data with a few members of the Back team, including a Computer Vision - Machine Learning - Data Scientist engineer who had a MVA Master's degree at ENS Paris Saclay, one of the most prestigious diplomas in the world in this field.
+As Data Analyst Intern, I analysed customer data from gross sales data. I worked with all teams, as all the data I processed was relevant to all teams. I retrieved precise data by working with the Back department, I analysed this data with a few members of the Back team, including a Computer Vision - Machine Learning - Data Scientist engineer who had a *MVA Master's degree at ENS Paris Saclay*, one of the most prestigious diplomas in the world in this field.
 
 I had the opportunity to advise the front-design and artistic department to give them feedback on the sales of their products, on the opinion of the users, their satisfaction by a key indicator: the repeat rate. This last indicator, one of the most important in web marketing, measures the rate of buyers who buy back a product they have already bought. At first glance, this is a fairly simple parameter to calculate, but in practice, it is quite complicated to calculate this indicator cleanly and accurately.
 
