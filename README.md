@@ -1,17 +1,24 @@
 # Pops Internship - Data Analyst Intern & Data Consulting
 
-Tools used and mastered :
+## Tools used and mastered
 
 - Python (pandas, numpy, scikit-learn, jupyter-notebook)
 
 - Dash Plotly - dasboard python extension
 
-- AWS Api
+- AWS API
 
-Exemple of work : a complete customisable dashboard for data-visualisation, coded in Python/Dash : (click on the picture to have an exemple of dashboard provided by Dash, I cannot provide the Pops dashboard here due to privacy concerns)
+- MapBox API
+
+## Work
+
+I completed a customisable dashboard for data-visualisation, coded in Python/Dash : (click on the picture to have an exemple of dashboard provided by Dash, I cannot provide the Pops dashboard here due to privacy concerns)
 
 [<img src="https://github.com/Tomcattt/pops_internship/blob/master/Screenshot%202020-10-28%20at%2014.34.08.png">](https://dash-gallery.plotly.host/dash-oil-and-gas/)
 
+- I set up machine learning algorithms in order to determine the most interesting and important features to target customers who buy (random forest learning was the most conclusive).
+
+## My internship at Pops
 
 [POPS](https://pops.co/) is a start-up in the field of photography. It is an online photo printing service. The added value of POPS is to be able to print photos in a quite innovative lenticular format, with a 3D effect.
 
