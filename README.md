@@ -11,6 +11,8 @@
 - MapBox API
 
 ## Work
+- The most fundamental task of my internship was the crunching and parsing of raw sales data, in order to be able to extract clean and easily interpretable data.
+
 - I set up algorithms which calculate key metrics from the customer database (repeat rate for example)
 
 - I set up machine learning algorithms in order to determine the most interesting characteristics and customer profiles to target customers who buy several times using the key metrics (random forest learning was the most conclusive)
